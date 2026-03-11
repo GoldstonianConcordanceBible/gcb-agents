@@ -1,0 +1,20 @@
+{
+  "task_types": [
+    {
+      "id": "canonical-resolution",
+      "description": "Resolve a biblical book or canon distinction question."
+    },
+    {
+      "id": "scripture-linking",
+      "description": "Connect books, themes, characters, and events."
+    },
+    {
+      "id": "doctrine-interpretation",
+      "description": "Interpret through Mirror → Water → Fire."
+    },
+    {
+      "id": "skeptic-engagement",
+      "description": "Answer objections and canon-critical questions."
+    }
+  ]
+}
