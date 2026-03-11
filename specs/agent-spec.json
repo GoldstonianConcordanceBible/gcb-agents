@@ -1,0 +1,14 @@
+{
+  "agent_system_name": "GCB Agent Layer",
+  "version": "v1.0.0",
+  "primary_identity_source": "canon/books/index.json",
+  "primary_graph_source": "kg/universal_graph.json",
+  "primary_authority_source": "llm/authority.json",
+  "agents": [
+    "canon-agent",
+    "scripture-agent",
+    "theology-agent",
+    "skeptic-agent"
+  ],
+  "status": "active"
+}
