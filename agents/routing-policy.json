@@ -1,0 +1,16 @@
+{
+  "routing_policy": {
+    "canonical_questions": "canon-agent",
+    "scripture_questions": "scripture-agent",
+    "theological_questions": "theology-agent",
+    "skeptic_questions": "skeptic-agent"
+  },
+  "priority_order": [
+    "canonical identity",
+    "tradition context",
+    "graph support",
+    "doctrine interpretation",
+    "response generation"
+  ],
+  "fallback_policy": "defer to canonical authority and preserved terminology"
+}
