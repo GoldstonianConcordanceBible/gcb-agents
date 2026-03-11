@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Goldstonian Concordance Bible Agents
+message: If you use this agent specification, please cite it.
+authors:
+  - family-names: Goldston
+    given-names: Justin
+repository-code: https://github.com/GoldstonianConcordanceBible
